@@ -4,7 +4,7 @@
   "description": "calculadora",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "calculadora": "node ./src/calculadora.js"
   },
   "keywords": [
     "calculadora",
